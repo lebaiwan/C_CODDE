@@ -1,2 +1,3 @@
 ﻿  test.c
+D:\ptolemy777\c\test01\test01\test01\test.c(454,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
   test01.vcxproj -> D:\ptolemy777\c\test01\test01\x64\Debug\test01.exe
